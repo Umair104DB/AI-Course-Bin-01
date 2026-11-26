@@ -1,8 +1,8 @@
 # Specific Data Type
-strVar = str("Hello World - Richard")
+strVar = str("12")
 print(type(strVar))
 
-strVar2="Hello World - Richard"
+strVar2="22"
 print(type(strVar2))
 
 
@@ -17,10 +17,10 @@ print(type(intVar2))
 
 #---------------------- float
 
-floatVar = float(50.3)
+floatVar = float(50)
 print(type(floatVar))
 
-floatVar2=50.3
+floatVar2=50
 print(type(floatVar2))
 
 #---------------------
